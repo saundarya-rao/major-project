@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 import tkinter as tk
 from tkinter import *
 from tkinter import ttk
@@ -366,16 +363,3 @@ pb = ttk.Progressbar(window, orient=HORIZONTAL, length=700, mode='determinate')
 pb.pack()
 
 window.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
